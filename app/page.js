@@ -24,9 +24,9 @@ export default function Home() {
         <Projects />
       </article>
 
-      <article className="flex flex-col gap-10 mx-10 md:mx-20 lg:mx-40">
+      {/* <article className="flex flex-col gap-10 mx-10 md:mx-20 lg:mx-40">
         <BlogSection />
-      </article>
+      </article> */}
       <Contact />
     </div>
   );
